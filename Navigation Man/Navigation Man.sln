@@ -1,9 +1,9 @@
+﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{72F4AF66-5978-59A7-A3FC-0D43B933262C}") = "Navigation Man", "Assembly-CSharp-firstpass.csproj", "{F7534FE8-7DE3-5F31-F4EA-C64142CA18DA}"
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigation Man", "Assembly-CSharp-firstpass.csproj", "{F7534FE8-7DE3-5F31-F4EA-C64142CA18DA}"
 EndProject
-Project("{72F4AF66-5978-59A7-A3FC-0D43B933262C}") = "Navigation Man", "Assembly-CSharp-Editor.csproj", "{537750AE-0316-E25A-275A-BC9D1680508F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Navigation Man", "Assembly-CSharp-Editor.csproj", "{537750AE-0316-E25A-275A-BC9D1680508F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
