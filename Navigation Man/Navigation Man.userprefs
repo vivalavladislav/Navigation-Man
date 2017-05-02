@@ -1,8 +1,8 @@
-﻿<Properties StartupConfiguration="{537750AE-0316-E25A-275A-BC9D1680508F}|Unit Tests">
+﻿<Properties StartupConfiguration="{F7534FE8-7DE3-5F31-F4EA-C64142CA18DA}|Unit Tests">
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoatMovement.cs">
     <Files>
-      <File FileName="Assets/SimpleRotation.cs" Line="35" Column="25" />
-      <File FileName="Assets/Scripts/BoatMovement.cs" Line="6" Column="7" />
+      <File FileName="Assets/Scripts/TimeController.cs" Line="20" Column="2" />
+      <File FileName="Assets/Scripts/BoatMovement.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,5 +10,4 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

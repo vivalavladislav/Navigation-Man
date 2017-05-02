@@ -34,11 +34,11 @@ public class BoatMovement : MonoBehaviour
 			add += target.transform.right * velocity;
 
 		add.y = target.velocity.y;
-		target.velocity = add;
+		target.velocity = add * Time.timeScale;
 	}
 
 	void Rotate(float sign)
 	{
-		target.angularVelocity = angluarVelocity / 180F * Mathf.PI * Vector3.up * sign; 
+		target.angularVelocity = angluarVelocity / 180F * Mathf.PI * Vector3.up * sign * Time.timeScale; 
 	}
 }
