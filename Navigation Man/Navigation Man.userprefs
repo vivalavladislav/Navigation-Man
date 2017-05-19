@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{F7534FE8-7DE3-5F31-F4EA-C64142CA18DA}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BoatMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TimeController.cs">
     <Files>
-      <File FileName="Assets/Scripts/TimeController.cs" Line="20" Column="2" />
-      <File FileName="Assets/Scripts/BoatMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/AutoScale.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TimeController.cs" Line="26" Column="4" />
+      <File FileName="Assets/Scripts/BoatMovement.cs" Line="42" Column="98" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -10,4 +11,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-firstpass PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

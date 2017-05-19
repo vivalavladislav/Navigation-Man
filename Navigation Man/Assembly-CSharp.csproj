@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AutoScale.cs" />
      <Compile Include="Assets\Scripts\BoatMovement.cs" />
      <Compile Include="Assets\Scripts\TimeController.cs" />
      <None Include="Assets\Standard Assets\Effects\GlassRefraction\Shaders\GlassStainedBumpDistort.shader" />
